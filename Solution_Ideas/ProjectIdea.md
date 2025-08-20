@@ -1,0 +1,2 @@
+I'm looking to develop an mcp server. purpose of this server is to look through each and every code file in a repo, build a documentation for that file and this has to happen for each and every file in a structured manner. goal is to work from bottom up and create a documentation for the whole repo. what's the best possible architecture that I can pursue with. give me 3 options
+ChatGPT said:
